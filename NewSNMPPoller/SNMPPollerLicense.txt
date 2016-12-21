@@ -1,0 +1,9 @@
+COPYRIGHT 2016 - Cybernewton Systems
+
+EXTERNAL MODULES
+
+Alamofire - MIT License
+SwiftyJSON - MIT License
+
+The author of SNMP Poller would like to thank the Alamofire Software Foundation and Ruoyu Fu for providing
+intuitive, clean alternatives that help expedite product development.
